@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248617757407",
+    "project_id": "real-note-7a4fd",
+    "storage_bucket": "real-note-7a4fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248617757407:android:ca66648011a583665e976a",
+        "android_client_info": {
+          "package_name": "com.dk.apps.real_note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVA_XXE4rVDBQnJrWFSqvoT3plMGQZ160"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

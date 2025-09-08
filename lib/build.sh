@@ -1,0 +1,1 @@
+flutter build appbundle --release --obfuscate --split-debug-info=build/symbols
